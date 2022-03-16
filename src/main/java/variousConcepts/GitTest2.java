@@ -10,5 +10,6 @@ public class GitTest2 {
 }
 	public static void printMe() {
 		System.out.println("print me");
+		System.out.println("print me1");
 	}
 }
